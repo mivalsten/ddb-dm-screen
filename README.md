@@ -1,5 +1,10 @@
 # ddb-dm-screen
 
+## attention
+There is much better working version of the script maintained by [TeaWithLucas](https://github.com/TeaWithLucas). Check it here: https://github.com/TeaWithLucas/DNDBeyond-DM-Screen
+
+I strongly suggest to upgrade to that version.
+
 ## description
 
 This Tampermonkey userscript aims to provide simple DM screen by scraping character sheet for relevant values. It works on campaign screen and shows stats, HP, AC and passives.
